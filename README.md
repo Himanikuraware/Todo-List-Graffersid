@@ -2,10 +2,10 @@
 
 Go to Client folder:-
 Run the following commands:- 
-npm install 
-npm start
+1.) npm install 
+2.) npm start
 
 Go to Server folder:-
 Run the following commands:- 
-npm install 
-npm start
+1.) npm install 
+1.) npm start
